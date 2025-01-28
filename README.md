@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Vinod Singh!<br>
+👋Hi there, I'm Vinod Singh!<br>
 I'm currently working on building full Stack Projects.<br>I'm looking to collaborate on GSOC(Google summer of code).<br>I'm currently learning TypeScript and Next.Js.
 
 
