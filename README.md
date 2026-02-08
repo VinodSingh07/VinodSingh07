@@ -7,37 +7,37 @@ I enjoy working across the stack — from designing robust backend APIs to craft
 
 💻 What I Do
 
-Build full-stack web applications
+ * Build full-stack web applications
 
-Design REST APIs using Node.js & Express
+ * Design REST APIs using Node.js & Express
 
-Work with MongoDB for data modeling and persistence
+ * Work with MongoDB for data modeling and persistence
 
-Create modern UIs using React & Next.js
+ * Create modern UIs using React & Next.js
 
-Style applications with Tailwind CSS
+ * Style applications with Tailwind CSS
 
-Follow MVC architecture and clean code practices
+ * Follow MVC architecture and clean code practices
 
 🛠️ Tech Stack
 
-Frontend: React, Next.js, Tailwind CSS
+ * Frontend: React, Next.js, Tailwind CSS
 
-Backend: Node.js, Express
+ * Backend: Node.js, Express
 
-Database: MongoDB, Mongoose
+ * Database: MongoDB, Mongoose
 
-Languages: JavaScript, TypeScript
+ * Languages: JavaScript, TypeScript
 
-Tools: Git, GitHub, VS Code
+ * Tools: Git, GitHub, VS Code
 
 🚀 Currently
 
-Building real-world full-stack projects
+ * Building real-world full-stack projects
 
-Improving backend architecture & scalability
+ * Improving backend architecture & scalability
 
-Learning best practices for production-ready applications
+ * Learning best practices for production-ready applications
 
 📫 Let’s Connect
 
