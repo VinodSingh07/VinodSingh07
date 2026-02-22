@@ -35,11 +35,6 @@
   <img width ="200" height="200" src="[https://i.imgflip.com/65efzo.gif](https://adaptable-gaura-22e.notion.site/image/https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif?table=block&id=22f81ec6-fea7-8083-beac-f704f7e2c068&spaceId=141dfd44-a47c-495a-91a6-70400ff22f30&userId=&cache=v2)"  />
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 
 
