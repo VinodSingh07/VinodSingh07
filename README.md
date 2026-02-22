@@ -1,53 +1,21 @@
-👋 About Me
+<h1 align="center">Hi 👋 I'm Vinod</h1>
 
-Hi, I’m Vinod Singh 👋
-A passionate Full-Stack Developer who loves building scalable web applications with clean architecture and real-world logic.
+###
 
-I enjoy working across the stack — from designing robust backend APIs to crafting modern, responsive frontend experiences. I’m constantly learning, building projects, and improving my problem-solving skills by working on practical applications.
+<p align="left">A passionate Full-Stack Developer who loves building scalable web applications with clean architecture and real-world logic.</p>
 
-💻 What I Do
+###
 
- * Build full-stack web applications
+<h2 align="left">About me</h2>
 
- * Design REST APIs using Node.js & Express
+###
 
- * Work with MongoDB for data modeling and persistence
+<p align="left">✨ Build full-stack web applications<br>📚Design REST APIs using Node.js & Express<br>🎲 Work with MongoDB for data modeling and persistence<br>💻 Create modern UIs using React & Next.js<br>✍️ Style applications with Tailwind CSS<br>📊 Follow MVC architecture and clean code practices</p>
 
- * Create modern UIs using React & Next.js
+###
 
- * Style applications with Tailwind CSS
+<h2 align="left">I code with</h2>
 
- * Follow MVC architecture and clean code practices
-
-🛠️ Tech Stack
-
- * Frontend: React, Next.js, Tailwind CSS
-
- * Backend: Node.js, Express
-
- * Database: MongoDB, Mongoose
-
- * Languages: JavaScript, TypeScript
-
- * Tools: Git, GitHub, VS Code
-
-🚀 Currently
-
- * Building real-world full-stack projects
-
- * Improving backend architecture & scalability
-
- * Learning best practices for production-ready applications
-
-📫 Let’s Connect
-
-💼 Open to internships & entry-level full-stack roles
-
-🌱 Always learning and exploring new technologies
-
-✨ Motto
-
-“Building full-stack web applications with scalable backend and modern frontend experiences.”
 
 
 # 💻 Tech Stack:
